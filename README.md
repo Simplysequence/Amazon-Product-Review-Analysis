@@ -30,7 +30,7 @@ In the initial phase of Data Cleaning and Preparation, we perform the following 
 -    Data Cleaning and Formatting (Duplicates removed, categories standardized)
 -    Included additional columns needed for more analysis (Price_Bucket, Discount_Interval, Potential_Revenue,Ratingg Bin)
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 ---
 Below is a summary of the analysis for the 14 tasks given. Each task’s methodology and output are condensed for clarity, with their individual pivot tables;
  
@@ -96,9 +96,13 @@ Below is a summary of the analysis for the 14 tasks given. Each task’s methodo
  13. Categories with Highest Discounts
      - Method: Pivot table with max discount_percentage per category.
      - Excel Pivot: Rows = category, Values = discount_percentage (Max).
-     
-     
+     - Output:
 
+ 14. Top 5 Products by Rating and Reviews
+     - Method: Calculate Composite_Score = 0.6*rating + 0.4*log(rating_count), sort top 5.
+     - Excel Pivot: Rows = product_name, category, Values = Composite_Score (Average), sort top 5.
+     - Output:
+    
 ### Data Analysis
 ---
 This is where we include some basic llines of codes or Queries or even some of the DAX expressions used during your analysis;
