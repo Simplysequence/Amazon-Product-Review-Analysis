@@ -1,4 +1,5 @@
 # Amazon-Product-Review-Analysis
+This is where i carried out my first project while studying at The Incubator Hub. I studied the raw data, cleaned it up and analyzed using charts and tables
 
 ### Table of Content
 -    [Project Preview](#Project-preview)
