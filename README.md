@@ -131,7 +131,7 @@ Below is a summary of the analysis for the 14 tasks given. Each task’s methodo
      - Excel Pivot: Rows = product_name, category, Values = Composite_Score (Average), sort top 5.
      - Output:
 
-
+![Task 14](https://github.com/user-attachments/assets/72bb5091-3a0f-4113-b405-4daef23d95a3)
 
 ### Data Analysis
 ---
