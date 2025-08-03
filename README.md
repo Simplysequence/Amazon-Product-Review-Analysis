@@ -1,6 +1,6 @@
 # Amazon-Product-Review-Analysis
 
-This is a project repository where i carried out my first project while studying at The Incubator Hub. My team was tasked with analysing product and customer review data and give insights that can guide product improvement, marketing strategies and customer engagement
+This is a repository where i carried out my first project while studying at The Incubator Hub. My team was tasked with analysing product and customer review data and give insights that can guide product improvement, marketing strategies and customer engagement
 
 ---
 ### Table of Content
