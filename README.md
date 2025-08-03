@@ -200,4 +200,12 @@ These products are invaluable assets for Amazon's clients. They represent flagsh
 
 ---
 ### Data Visualization
+![chart 1](https://github.com/Simplysequence/Amazon-Product-Review-Analysis/blob/main/chart%201.jpg)
 
+![chart 2](https://github.com/Simplysequence/Amazon-Product-Review-Analysis/blob/main/chart%202.jpg)
+
+![chart 3](https://github.com/Simplysequence/Amazon-Product-Review-Analysis/blob/main/chart%203.jpg)
+
+![chart 4](https://github.com/Simplysequence/Amazon-Product-Review-Analysis/blob/main/chart%204.jpg)
+
+![chart 5](https://github.com/Simplysequence/Amazon-Product-Review-Analysis/blob/main/chart%205.jpg)
