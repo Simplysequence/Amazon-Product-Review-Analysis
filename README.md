@@ -95,7 +95,7 @@ Categories like "Toys & Games" show no difference, as they have 150 average disc
 
 ![Task 6](https://github.com/user-attachments/assets/3b73f399-7e86-4cee-9543-cd6b1f5fe573)
 
-Insights: The analysis of review counts by product name reveals the most popular and highly engaged products. "Electronis" stands out significantly with over 14 million reviews, making it the product with the highest customer engagement. Other products with a very high number of reviews include "Computer & Accessories", "Home & Kitchen", with each exceeding 6 million and over 2 million reviews respectively.
+Insights: The analysis of review counts by product name reveals the most popular and highly engaged products. "Electronics" stands out significantly with over 14 million reviews, making it the product with the highest customer engagement. Other products with a very high number of reviews include "Computer & Accessories", "Home & Kitchen", with each exceeding 6 million and over 2 million reviews respectively.
 These products are highly visible and trusted by a large customer base. For Amazon's clients, these products represent strong performers that can be leveraged in marketing campaigns, used as benchmarks for product development, or serve as anchor products to drive traffic and cross-selling opportunities. The sheer volume of reviews for these products also provides a rich source of customer feedback for product refinement and service improvement.
 
     7. Number of Products with Discount ≥50%
@@ -114,7 +114,7 @@ Insights: A significant portion of products are offered with a discount of 50% o
 
 ![Task 8](https://github.com/user-attachments/assets/f21da3f9-c062-4c3d-8e62-17b5a502ac52)
 
-Insight/Interpretation: The distribution of product ratings shows a strong positive skew, indicating that the majority of products have high ratings. The highest concentration of products falls within the 4.1 to 4.3 rating range, with 196 products at 4.1, 170 at 4.2, and 151 at 4.3. This highlights generally good customer satisfaction across the listed products. As ratings decrease, the number of products also significantly drops (e.g., only 28 products at 3.6). This positive trend in ratings is a strong indicator of perceived product quality and customer loyalty for sellers on Amazon. It also suggests that products falling below the 4.0 mark might require attention for improvement.
+InsightS: The distribution of product ratings shows a strong positive skew, indicating that the majority of products have high ratings. The highest concentration of products falls within the 4.1 to 4.3 rating range, with 196 products at 4.1, 170 at 4.2, and 151 at 4.3. This highlights generally good customer satisfaction across the listed products. As ratings decrease, the number of products also significantly drops (e.g., only 28 products at 3.6). This positive trend in ratings is a strong indicator of perceived product quality and customer loyalty for sellers on Amazon. It also suggests that products falling below the 4.0 mark might require attention for improvement.
 
     9. Total Potential Revenue by Category
      - Method: Calculate potential_revenue = actual_price * rating_count, sum by category.
