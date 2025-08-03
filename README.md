@@ -194,7 +194,7 @@ These products are invaluable assets for Amazon's clients. They represent flagsh
 
 3. Leverage Core Categories:
    - Invest Heavily in Electronics & Home & Kitchen: Given their market dominance in products, reviews, and potential         revenue, prioritize inventory, marketing, and new product development within these categories.
-   - Analyze High-Rated Products: Study the attributes, marketing, and customer service strategies behind consistently        high-rated products (e.g., Instant, Oratech) to replicate their success across other listings.
+   - Analyze High-Rated Products: Study the attributes, marketing, and customer service strategies behind consistently        high-rated products (e.g., Electronics, Computers & Accessories) to replicate their success across other listings.
 
 4. Continuous Monitoring & Adaptation:
    Regularly monitor key performance indicators (KPIs) related to sales, customer segments, shipping costs, and returns     to ensure ongoing strategic alignment and identify new opportunities or challenges.
