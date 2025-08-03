@@ -9,7 +9,6 @@ This is a repository where i carried out my first project while studying at The 
 -    [Tools Used](#Tools-Used)
 -    [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
 -    [Exploratory Data Analysis](#Exploratory-data-analysis)
--    [Results/Findings](#Results/Findings)
 -    [Recommendations](#Recommendations)
 -    [Data Visualization](#Data-Visualization)
 
